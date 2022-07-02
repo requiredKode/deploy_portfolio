@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/deploy_portfolio/static/css/main.60a16841.css",
+    "main.js": "/deploy_portfolio/static/js/main.7d1da25f.js",
+    "static/media/CV - ANDRÉS GUZMÁN SERRANO.pdf": "/deploy_portfolio/static/media/CV - ANDRÉS GUZMÁN SERRANO.3021af36dff52a448fdb.pdf",
+    "static/media/someone3.jpg": "/deploy_portfolio/static/media/someone3.4831b45e35595fe8be76.jpg",
+    "static/media/someonecopy.jpg": "/deploy_portfolio/static/media/someonecopy.ae26b0f8b8f19400171b.jpg",
+    "static/media/coming soon.jpg": "/deploy_portfolio/static/media/coming soon.e33bde9346ee924cf8fe.jpg",
+    "index.html": "/deploy_portfolio/index.html",
+    "main.60a16841.css.map": "/deploy_portfolio/static/css/main.60a16841.css.map",
+    "main.7d1da25f.js.map": "/deploy_portfolio/static/js/main.7d1da25f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a16841.css",
+    "static/js/main.7d1da25f.js"
+  ]
+}
