@@ -23,7 +23,6 @@ const About = () => {
             I like to make desktop applications, web and even video games.
             Everything that has good graphic quality excites me a lot and motivates me to want to learn to do similar things.
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
