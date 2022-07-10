@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/CV - ANDRÉS GUZMÁN SERRANO.pdf'
+import CV from '../../assets/CV_ANDRÉSGUZMÁNSERRANO.pdf'
 
 const CTA = () => {
   return (
